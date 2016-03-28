@@ -5,6 +5,8 @@ RDM#2
 
 # Talks
 
+![](https://github.com/research-development-meetup/discussion/blob/master/rdm-2/photo.jpeg)
+
 ## The Distributed Web
 
 > IPFS is a distributed file system that seeks to connect all computing devices with the same system of files. IPFS is a compilation of great ideas in the academia that are distilled and mixed together, creating a system that is currently being deployed in the network. This talk will cover the network data structures and some cryptography fundamentals of how IPFS works and is made possible.
